@@ -1,5 +1,5 @@
 /*
-c++ -std=c++17 -pedantic -Wall -Wextra -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined -fno-sanitize=vptr,function -fno-sanitize-recover=all -O2 -I. -I./src -I../src -I.. -o minStepsToTreasureIsland ./minStepsToTreasureIsland.cc && ./minStepsToTreasureIsland
+c++ -std=c++17 -pedantic -Wall -Wextra -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined -fno-sanitize=vptr,function -fno-sanitize-recover=all -O2 -I. -I./src -I../src -I.. -o ./build/minStepsToTreasureIsland ./minStepsToTreasureIsland.cc && ./build/minStepsToTreasureIsland
 */
 #include <iostream>
 
